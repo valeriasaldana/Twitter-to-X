@@ -9,7 +9,7 @@ using namespace std;
 /*
 // MUST BE LARGE ENOUGH FOR DATA SET
 */
-#define M YOUR_TABLE_SIZE_VALUE_HERE
+#define M 150
 
 struct XUser {
 	string username; 
